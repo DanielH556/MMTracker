@@ -1,0 +1,124 @@
+{
+  "Odolwa_Remains" : [{
+    "id" : "1",
+    "location" : "woodfall_temple",
+    "requirements" : [ "Sword", "Razor_Sword", "Gilded_Sword" ]
+  }],
+  "Goht_Remains" : [{
+    "id" : "2",
+    "location" : "snowhead_temple",
+    "requirements" : [ "Goron" ]
+  }],
+  "Gyorg_Remains" : [{
+    "id" : "3",
+    "location" : "greatbay_temple",
+    "requirements" : [ "Zora" ]
+  }],
+  "Twinmold_Remains" : [{
+    "id" : "4",
+    "location" : "stonetower_temple",
+    "requirements" : [ "Hero_Bow", "Light_Arrow", "Giant", "Sword", "Gilded_Sword", "Razor_Sword" ]
+  }],
+  "Sword" : [{
+    "id" : "5",
+    "location" : "starts_with"
+  }],
+  "Razor_Sword" : [{
+    "id" : "6",
+    "location" : "mountain_village",
+    "requirements" : "Sword"
+  }],
+  "Gilded_Sword" : [{
+    "id" : "7",
+    "location" : "mountain_village",
+    "requirements" : [ "Razor_Sword", "Gold_Dust" ]
+  }],
+  "Hero_Shield" : [{
+    "id" : "8",
+    "location" : "starts_with"
+  }],
+  "Mirror_Shield" : [{
+    "id" : "9",
+    "location" : "bottom_of_the_well"
+  }],
+  "Small_Quiver" : [{
+    "id" : "10",
+    "location" : "woodfall_temple"
+  }],
+  "Medium_Quiver" : [{
+    "id" : "11",
+    "location" : "aaa"
+  }],
+  "Big_Quiver" : [{
+    "id" : "12",
+    "location" : "???"
+  }],
+  "Bomb_Bag" : [{
+    "id" : "13",
+    "location" : "bomb_shop"
+  }],
+  "Medium_Bomb_Bag" : [{
+    "id" : "14",
+    "location" : "???"
+  }],
+  "Big_Bomb_Bag" : [{
+    "id" : "15",
+    "location" : "bomb_shop"
+  }],
+  "Bomber_Notebook" : [{
+    "id" : "16",
+    "location" : "bomber_hide_and_seek"
+  }],
+  "Song_of_Time" : [{
+    "id" : "17",
+    "location" : "starts_with"
+  }],
+  "Song_of_Healing" : [{
+    "id" : "18",
+    "location" : "mask_salesman"
+  }],
+  "Epona_Song" : [{
+    "id" : "19",
+    "location" : "romani_ranch"
+  }],
+  "Song_of_Soaring" : [{
+    "id" : "20",
+    "location" : "southern_swamp"
+  }],
+  "Song_of_Storms" : [{
+    "id" : "21",
+    "location" : "ikana_graveyard"
+  }],
+  "Sonata_of_Awakening" : [{
+    "id" : "22",
+    "location" : "deku_palace"
+  }],
+  "Goron_Lullaby" : [{
+    "id" : "23",
+    "location" : "goron_village"
+  }],
+  "New_Wave_Bossa_Nova" : [{
+    "id" : "24",
+    "location" : "greatbay_laboratory"
+  }],
+  "Elegy_of_Emptiness" : [{
+    "id" : "25",
+    "location" : "ikana_castle"
+  }],
+  "Oath_to_Order" : [{
+    "id" : "26",
+    "location" : "dungeon_boss_defeated"
+  }],
+  "Small_Wallet" : [{
+    "id" : "27",
+    "location" : "starts_with"
+  }],
+  "Adult_Wallet" : [{
+    "id" : "28",
+    "location" : "bank"
+  }],
+  "Giant_Wallet" : [{
+    "id" : "29",
+    "location" : "???"
+  }]
+}

@@ -1,0 +1,314 @@
+{
+  "Clock_Tower" : [{
+    "id" : "1",
+    "location" : "south_clock_town",
+    "requirements": ["land_title_deed"],
+    "status": ""
+  }],
+  "Tree_Top" : [{
+    "id" : "2",
+    "location" : "north_clock_town",
+    "requirements": ["link"],
+    "status": ""
+  }],
+  "Sword_Training" : [{
+    "id" : "3",
+    "location" : "west_clock_town",
+    "requirements": ["sword", "razor_sword", "gilded_sword"],
+    "status": ""
+  }],
+  "Peahat" : [{
+    "id" : "4",
+    "location" : "south_termina_field",
+    "requirements": ["sword", "razor_sword", "gilded_sword"],
+    "status": ""
+  }],
+  "Dodongo_Grotto" : [{
+    "id" : "5",
+    "location" : "north_termina_field",
+    "requirements": ["sword", "razor_sword", "gilded_sword", "bomb"],
+    "status": ""
+  }],
+  "Deku_Scrub_Playground" : [{
+    "id" : "6",
+    "location" : "north_clock_town",
+    "requirements": ["deku_mask"],
+    "status": ""
+  }],
+  "Postman_Minigame" : [{
+    "id" : "7",
+    "location" : "west_clock_town",
+    "requirements": ["bunny_hood"],
+    "status": ""
+  }],
+  "Rosa_Sisters" : [{
+    "id" : "8",
+    "location" : "west_clock_town",
+    "requirements": ["kamaro_mask"],
+    "status": ""
+  }],
+  "Toilet" : [{
+    "id" : "9",
+    "location" : "stock_pot_inn",
+    "requirements": ["land_title_deed", "mountain_title_deed", "ocean_title_deed", "kafei_letter", "special_delivery_letter", "swamp_title_deed"],
+    "status": ""
+  }],
+  "Business_Scrub_Grotto" : [{
+    "id" : "10",
+    "location" : "south_termina_field",
+    "requirements": ["adult_wallet"],
+    "status": ""
+  }],
+  "Keaton_Quiz" : [{
+    "id" : "11",
+    "location" : "north_clock_town",
+    "requirements": ["keaton_mask"],
+    "status": ""
+  }],
+  "Postbox" : [{
+    "id" : "12",
+    "location" : "clock_town",
+    "requirements": ["postman_hat"],
+    "status": ""
+  }],
+  "Bats_Tree_Top" : [{
+    "id" : "13",
+    "location" : "southern_swamp_trail",
+    "requirements": ["hero_bow", "stone_mask", "hookshot", "deku_mask"],
+    "status": ""
+  }],
+  "Tourist_Center_Roof" : [{
+    "id" : "14",
+    "location" : "southern_swamp",
+    "requirements": ["deku_mask", "land_title_deed", "goron_mask"],
+    "status": ""
+  }],
+  "Tingle_Photo" : [{
+    "id" : "15",
+    "location" : "southern_swamp",
+    "requirements": ["pictograph_box", "deku_mask", "hero_bow", "hookshot"],
+    "status": ""
+  }],
+  "Deku_Palace_Garden" : [{
+    "id" : "16",
+    "location" : "deku_palace",
+    "requirements": ["deku_mask"],
+    "status": ""
+  }],
+  "Woodfall_Chest" : [{
+    "id" : "17",
+    "location" : "woodfall",
+    "requirements": ["deku_mask"],
+    "status": ""
+  }],
+  "Gossip_Stones" : [{
+    "id" : "18",
+    "location" : "termina_field",
+    "requirements": ["sonata_of_awakening", "goron_lullaby", "new_wave_bossa_nova", "elegy_of_emptiness"],
+    "status": ""
+  }],
+  "Koume_Archery_Minigame" : [{
+    "id" : "19",
+    "location" : "southern_swamp",
+    "requirements": ["hero_bow", "odolwa_remains"],
+    "status": ""
+  }],
+  "Dog_Race" : [{
+    "id" : "20",
+    "location" : "romani_ranch",
+    "requirements": ["mask_of_truth"],
+    "status": ""
+  }],
+  "Town_Shooting_Gallery" : [{
+    "id" : "21",
+    "location" : "east_clock_town",
+    "requirements": ["hero_bow"],
+    "status": ""
+  }],
+  "Swamp_Shooting_Gallery" : [{
+    "id" : "22",
+    "location" : "road_to_southern_swamp",
+    "requirements": ["hero_bow"],
+    "status": ""
+  }],
+  "Honey_and_Darling" : [{
+    "id" : "23",
+    "location" : "east_clock_town",
+    "requirements": ["hero_bow"],
+    "status": ""
+  }],
+  "Title_Deed_Flower" : [{
+    "id" : "24",
+    "location" : "goron_village",
+    "requirements": ["swamp_title_deed"],
+    "status": ""
+  }],
+  "Goron_Chest_Minigame" : [{
+    "id" : "25",
+    "location" : "east_clock_town",
+    "requirements": ["goron_mask"],
+    "status": ""
+  }],
+  "Ikana_Iron_Knuckle" : [{
+    "id" : "26",
+    "location" : "ikana_graveyard",
+    "requirements": ["captain_hat"],
+    "status": ""
+  }],
+  "Bomb_Boulder" : [{
+    "id" : "27",
+    "location" : "east_termina_field",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Fish_Feed" : [{
+    "id" : "28",
+    "location" : "greatbay_coast",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Bottom_of_the_Waterfall" : [{
+    "id" : "29",
+    "location" : "great_bay_coast",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Pirate_Fortress_Jail" : [{
+    "id" : "30",
+    "location" : "pirate_fortress",
+    "requirements": ["goron_mask"],
+    "status": ""
+  }],
+  "Seahorse_Couple" : [{
+    "id" : "31",
+    "location" : "pinnacle_rock",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Swan_Song" : [{
+    "id" : "32",
+    "location" : "zora_domain",
+    "requirements": ["zora_mask", "hookshot"],
+    "status": ""
+  }],
+  "Title_Deed_Zora" : [{
+    "id" : "33",
+    "location" : "zora_domain",
+    "requirements": ["ocean_title_deed"],
+    "status": ""
+  }],
+  "Beaver_Race_2" : [{
+    "id" : "34",
+    "location" : "zora_cape",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Scarecrow_Snowhead" : [{
+    "id" : "35",
+    "location" : "road_to_snowhead",
+    "requirements": ["hookshot", "scarecrow_song"],
+    "status": ""
+  }],
+  "Scarecrow_Great_Bay" : [{
+    "id" : "36",
+    "location" : "great_bay_coast",
+    "requirements": ["hookshot", "scarecrow_song"],
+    "status": ""
+  }],
+  "Spiderhouse_Masks" : [{
+    "id" : "37",
+    "location" : "ocean_spider_house",
+    "requirements": ["hero_bow", "captain_hat"],
+    "status": ""
+  }],
+  "Anju_Grandmother_1" : [{
+    "id" : "38",
+    "location" : "east_clock_town",
+    "requirements": ["all_night_mask"],
+    "status": ""
+  }],
+  "Anju_Grandmother_2" : [{
+    "id" : "39",
+    "location" : "east_clock_town",
+    "requirements": ["all_night_mask"],
+    "status": ""
+  }],
+  "Title_Deed_Ikana" : [{
+    "id" : "40",
+    "location" : "ikana_canyon",
+    "requirements": ["ocean_title_deed", "deku_mask"],
+    "status": ""
+  }],
+  "Mayor_Doutour" : [{
+    "id" : "41",
+    "location" : "east_clock_town",
+    "requirements": ["couple_mask"],
+    "status": ""
+  }],
+  "Underwater_Chest_Snowhead" : [{
+    "id" : "42",
+    "location" : "road_to_goron_village",
+    "requirements": ["zora_mask", "goht"],
+    "status": ""
+  }],
+  "Frog_Choir" : [{
+    "id" : "43",
+    "location" : "mountain_village",
+    "requirements": ["don_gero_mask", "goht"],
+    "status": ""
+  }],
+  "Torch_Minigame" : [{
+    "id" : "44",
+    "location" : "great_bay_coast",
+    "requirements": ["gyorg"],
+    "status": ""
+  }],
+  "Poe_Minigame" : [{
+    "id" : "45",
+    "location" : "ikana_canyon",
+    "requirements": [""],
+    "status": ""
+  }],
+  "Ikana_Castle_Pillar" : [{
+    "id" : "46",
+    "location" : "ikana_castle",
+    "requirements": ["deku_mask", "hookshot", "hero_bow"],
+    "status": ""
+  }],
+  "Secret_Shrine_Boss_Rush" : [{
+    "id" : "47",
+    "location" : "secret_shrine",
+    "requirements": ["light_arrow"],
+    "status": ""
+  }],
+  "5000_rupees" : [{
+    "id" : "48",
+    "location" : "west_clock_town",
+    "requirements": [""],
+    "status": ""
+  }],
+  "Odolwa_Trial" : [{
+    "id" : "49",
+    "location" : "the_moon",
+    "requirements": ["deku_mask"],
+    "status": ""
+  }],
+  "Goht_Trial" : [{
+    "id" : "50",
+    "location" : "the_moon",
+    "requirements": ["goron_mask"],
+    "status": ""
+  }],
+  "Gyorg_Trial" : [{
+    "id" : "51",
+    "location" : "the_moon",
+    "requirements": ["zora_mask"],
+    "status": ""
+  }],
+  "Twinmold_Trial" : [{
+    "id" : "52",
+    "location" : "the_moon",
+    "requirements": ["hero_bow", "bombchu", "bomb"],
+    "status": ""
+  }]
+}

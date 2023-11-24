@@ -1,0 +1,98 @@
+{
+  "Deku_Mask" : [{
+    "id" : "1",
+    "location" : "starts_with"
+  }],
+  "Goron_Mask" : [{
+    "id" : "2",
+    "location" : "darmani_grave"
+  }],
+  "Zora_Mask" : [{
+    "id" : "3",
+    "location" : "great_bay"
+  }],
+  "Postman_Hat" : [{
+    "id" : "4",
+    "location" : "east_clock_town"
+  }],
+  "All_Night_Mask" : [{
+    "id" : "5",
+    "location" : "night_market"
+  }],
+  "Blast_Mask" : [{
+    "id" : "6",
+    "location" : "north_clock_town"
+  }],
+  "Stone_Mask" : [{
+    "id" : "7",
+    "location" : "ikana_valley"
+  }],
+  "Great_Fairy_Mask" : [{
+    "id" : "8",
+    "location" : "north_clock_town"
+  }],
+  "Keaton_Mask" : [{
+    "id" : "9",
+    "location" : "laundry_pool"
+  }],
+  "Bremen_Mask" : [{
+    "id" : "10",
+    "location" : "laundry_pool"
+  }],
+  "Bunny_Hood" : [{
+    "id" : "11",
+    "location" : "chicken_march"
+  }],
+  "Don_Gero_Mask" : [{
+    "id" : "12",
+    "location" : "mountain_village"
+  }],
+  "Mask_of_Scents" : [{
+    "id" : "13",
+    "location" : "deku_palace"
+  }],
+  "Romani_Mask" : [{
+    "id" : "14",
+    "location" : "romani_ranch"
+  }],
+  "Troupe_Mask" : [{
+    "id" : "15",
+    "location" : "gorman_ranch"
+  }],
+  "Kafei_Mask" : [{
+    "id" : "16",
+    "location" : "east_clock_town"
+  }],
+  "Couple_Mask" : [{
+    "id" : "17",
+    "location" : "stock_pot_inn"
+  }],
+  "Mask_of_Truth" : [{
+    "id" : "18",
+    "location" : "bomb_shop"
+  }],
+  "Kamaro_Mask" : [{
+    "id" : "19",
+    "location" : "north_termina_field"
+  }],
+  "Gibdo_Mask" : [{
+    "id" : "20",
+    "location" : "ikana_valley"
+  }],
+  "Garo_Mask" : [{
+    "id" : "21",
+    "location" : "gorman_ranch"
+  }],
+  "Captain_Hat" : [{
+    "id" : "22",
+    "location" : "ikana_graveyard"
+  }],
+  "Giant_Mask" : [{
+    "id" : "23",
+    "location" : "stonetower_temple"
+  }],
+  "Fierce_Deity_Mask" : [{
+    "id" : "24",
+    "location" : "moon"
+  }]
+}

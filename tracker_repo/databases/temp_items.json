@@ -1,0 +1,34 @@
+{
+  "Moon_Tear" : [{
+    "id" : "1",
+    "location" : "west_termina_field"
+  }],
+  "Title_Deed" : [{
+    "id" : "2",
+    "location" : "south_clock_town"
+  }],
+  "Swamp_Title_Deed" : [{
+    "id" : "3",
+    "location" : "southern_swamp"
+  }],
+  "Mountain_Title_Deed" : [{
+    "id" : "4",
+    "location" : "mountain_village"
+  }],
+  "Ocean_Title_Deed" : [{
+    "id" : "5",
+    "location" : "zora_domain"
+  }],
+  "Kafei_Letter" : [{
+    "id" : "6",
+    "location" : "stock_pot_inn"
+  }],
+  "Pendant_of_Memories" : [{
+    "id" : "7",
+    "location" : "laundry_pool"
+  }],
+  "Special_Delivery_to_Mama" : [{
+    "id" : "8",
+    "location" : "laundry_pool"
+  }]
+}
